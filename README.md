@@ -23,4 +23,4 @@
 
 ### インフラ
 
-- AWS Amplify
+- AWS (Amplify)
