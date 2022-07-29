@@ -21,6 +21,6 @@
 - 楽天 API
 - Google Map API
 
-## インフラ
+### インフラ
 
 - AWS Amplify
