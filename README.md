@@ -20,3 +20,7 @@
 
 - 楽天 API
 - Google Map API
+
+## インフラ
+
+- AWS Amplify
